@@ -2,29 +2,29 @@
 application_id: "1559896174276649002"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 3
+type: 0
 
 # Activity Details
-name: "Youtube"
+name: "صبع ناصر"
 details: "Watching Nexos Labs"
-state: "Subscribe"
+state: "Playing"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageKey: "screenshot_2026-10-17_002224"
+largeImageText: "nacer kmk"
+smallImageKey: ""
+smallImageText: ""
 
 # Activity URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: ""
 
 # Activity Buttons (optional)
 buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+  - name: ""
+    url: ""
+  - name: ""
+    url: ""
 
 # Activity Custom status
-custom_status: "Watching tutorials"
-custom_emoji: "🔥"
+custom_status: ""
+custom_emoji: ""
