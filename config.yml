@@ -12,19 +12,19 @@ state: "Playing"
 # Activity Images
 largeImageKey: "screenshot_2026-10-17_002224"
 largeImageText: "nacer kmk"
-smallImageKey: ""
-smallImageText: ""
+#smallImageKey: ""
+#smallImageText: ""
 
 # Activity URL (optional, works only with certain types)
-url: ""
+#url: ""
 
 # Activity Buttons (optional)
-buttons:
-  - name: ""
-    url: ""
-  - name: ""
-    url: ""
-
+#buttons:
+#  - name: ""
+#    url: ""
+#  - name: ""
+#    url: ""
+#
 # Activity Custom status
-custom_status: ""
-custom_emoji: ""
+#custom_status: ""
+#custom_emoji: ""
