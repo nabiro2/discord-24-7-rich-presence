@@ -6,14 +6,14 @@ type: 0
 
 # Activity Details
 name: "صبع ناصر"
-#details: " "
+details: "nacer mskin"
 state: "Playing"
 
 # Activity Images
 largeImageKey: "https://media.discordapp.net/attachments/1372752909040881665/1560807623924785232/Screenshot_2026-10-17_002224_1.png?ex=6ad40edf&is=6ad2bd5f&hm=bfdfd65d46646dfe14cfd3852022b6f6e505fde7d7539dc3f9d521e9093261bb&=&format=webp&quality=lossless"
 largeImageText: "nacer kmk"
-#smallImageKey: ""
-#smallImageText: ""
+smallImageKey: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0yImEF7wVP9aiqaPe95DBl4BKe7htD7RrS99c0wACg&s"
+smallImageText: "kmk nacer"
 
 # Activity URL (optional, works only with certain types)
 #url: ""
